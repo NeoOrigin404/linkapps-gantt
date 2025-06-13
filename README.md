@@ -4,6 +4,81 @@ Cette application est une solution de suivi de production développée avec Reac
 
 ## Structure du Projet
 
+### Organisation des Dossiers
+
+```
+test-app-v2/
+├── app/                    # Dossier principal de l'application Expo
+│   ├── (tabs)/            # Routes et écrans de l'application
+│   ├── _layout.tsx        # Layout principal de l'application
+│   ├── globals.css        # Styles globaux
+│   └── +not-found.tsx     # Page 404 personnalisée
+│
+├── components/            # Composants réutilisables
+│   ├── GanttChart/       # Composants du diagramme de Gantt
+│   ├── ui/               # Composants UI de base
+│   ├── __tests__/        # Tests des composants
+│   └── [composants].tsx  # Composants individuels
+│
+├── hooks/                # Hooks personnalisés
+│   ├── useThemeColor.ts
+│   ├── useColorScheme.ts
+│   └── useColorScheme.web.ts
+│
+├── constants/            # Constantes et configurations
+│
+├── data/                # Données statiques
+│   ├── ordres_de_fabrication.json
+│   ├── machine_status_history.json
+│   ├── machines.json
+│   └── data.json
+│
+├── assets/              # Ressources statiques (images, fonts, etc.)
+│
+├── scripts/             # Scripts utilitaires
+│
+├── src/                 # Code source principal
+│
+├── .expo/              # Configuration Expo
+│
+├── node_modules/       # Dépendances npm
+│
+├── package.json        # Configuration npm
+├── tsconfig.json       # Configuration TypeScript
+├── app.json           # Configuration Expo
+└── README.md          # Documentation du projet
+```
+
+### Description des Dossiers Principaux
+
+#### `/app`
+Contient la structure de navigation et les écrans principaux de l'application. Utilise le système de routage d'Expo Router.
+
+#### `/components`
+Regroupe tous les composants réutilisables de l'application :
+- `GanttChart/` : Composants spécialisés pour le diagramme de Gantt
+- `ui/` : Composants d'interface utilisateur de base
+- `__tests__/` : Tests unitaires des composants
+
+#### `/hooks`
+Contient les hooks personnalisés pour la gestion du thème et des fonctionnalités spécifiques.
+
+#### `/data`
+Stocke les fichiers JSON contenant les données statiques de l'application :
+- Ordres de fabrication
+- Historique des statuts des machines
+- Informations sur les machines
+- Données générales
+
+#### `/constants`
+Contient les constantes et configurations globales de l'application.
+
+#### `/assets`
+Stocke les ressources statiques comme les images, les polices et autres médias.
+
+#### `/scripts`
+Contient les scripts utilitaires pour le développement et le déploiement.
+
 ### Composants (`/components`)
 
 #### Composants UI de Base
@@ -124,7 +199,6 @@ npm start
 - ✅ Indicateurs visuels de statut
 
 #### Thème et Style
-- ✅ Support du thème clair/sombre
 - ✅ Styles cohérents pour tous les composants
 - ✅ Mise en page responsive
 - ✅ Animations fluides
