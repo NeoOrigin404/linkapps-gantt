@@ -1,0 +1,1002 @@
+[
+  {
+    "history_id": 1,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-15T07:00:00Z",
+    "end_datetime_utc": "2025-04-15T07:30:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Morning shift start"
+  },
+  {
+    "history_id": 2,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-15T07:35:00Z",
+    "end_datetime_utc": "2025-04-15T08:15:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 3,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-15T08:20:00Z",
+    "end_datetime_utc": "2025-04-15T09:00:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Continued production"
+  },
+  {
+    "history_id": 4,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-15T09:05:00Z",
+    "end_datetime_utc": "2025-04-15T10:00:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 5,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-15T10:04:00Z",
+    "end_datetime_utc": "2025-04-15T11:00:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Morning shift continued"
+  },
+  {
+    "history_id": 6,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-15T11:05:00Z",
+    "end_datetime_utc": "2025-04-15T12:00:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 7,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-15T12:03:00Z",
+    "end_datetime_utc": "2025-04-15T13:00:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Afternoon shift start"
+  },
+  {
+    "history_id": 8,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-15T13:04:00Z",
+    "end_datetime_utc": "2025-04-15T14:00:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 9,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-15T14:05:00Z",
+    "end_datetime_utc": "2025-04-15T14:45:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 10,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-15T14:50:00Z",
+    "end_datetime_utc": "2025-04-15T15:00:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "End of shift"
+  },
+  {
+    "history_id": 11,
+    "machine_id": 2,
+    "machine_name": "Machine 2",
+    "start_datetime_utc": "2025-04-15T00:00:00Z",
+    "end_datetime_utc": "2025-04-15T02:30:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Night shift start"
+  },
+  {
+    "history_id": 12,
+    "machine_id": 2,
+    "machine_name": "Machine 2",
+    "start_datetime_utc": "2025-04-15T02:35:00Z",
+    "end_datetime_utc": "2025-04-15T05:00:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 13,
+    "machine_id": 2,
+    "machine_name": "Machine 2",
+    "start_datetime_utc": "2025-04-15T05:05:00Z",
+    "end_datetime_utc": "2025-04-15T08:00:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 14,
+    "machine_id": 2,
+    "machine_name": "Machine 2",
+    "start_datetime_utc": "2025-04-15T08:00:00Z",
+    "end_datetime_utc": "2025-04-15T10:30:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Morning shift start"
+  },
+  {
+    "history_id": 15,
+    "machine_id": 2,
+    "machine_name": "Machine 2",
+    "start_datetime_utc": "2025-04-15T10:34:00Z",
+    "end_datetime_utc": "2025-04-15T13:00:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 16,
+    "machine_id": 2,
+    "machine_name": "Machine 2",
+    "start_datetime_utc": "2025-04-15T13:05:00Z",
+    "end_datetime_utc": "2025-04-15T16:00:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 17,
+    "machine_id": 2,
+    "machine_name": "Machine 2",
+    "start_datetime_utc": "2025-04-15T16:00:00Z",
+    "end_datetime_utc": "2025-04-15T18:30:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Afternoon shift start"
+  },
+  {
+    "history_id": 18,
+    "machine_id": 2,
+    "machine_name": "Machine 2",
+    "start_datetime_utc": "2025-04-15T18:35:00Z",
+    "end_datetime_utc": "2025-04-15T21:00:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 19,
+    "machine_id": 2,
+    "machine_name": "Machine 2",
+    "start_datetime_utc": "2025-04-15T21:04:00Z",
+    "end_datetime_utc": "2025-04-15T23:30:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 20,
+    "machine_id": 2,
+    "machine_name": "Machine 2",
+    "start_datetime_utc": "2025-04-15T23:35:00Z",
+    "end_datetime_utc": "2025-04-16T00:00:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "End of evening shift"
+  },
+  {
+    "history_id": 21,
+    "machine_id": 3,
+    "machine_name": "Machine 3",
+    "start_datetime_utc": "2025-04-15T07:00:00Z",
+    "end_datetime_utc": "2025-04-15T08:00:00Z",
+    "site_id": 203,
+    "grp_id": 103,
+    "notes": "Morning shift start"
+  },
+  {
+    "history_id": 22,
+    "machine_id": 3,
+    "machine_name": "Machine 3",
+    "start_datetime_utc": "2025-04-15T08:05:00Z",
+    "end_datetime_utc": "2025-04-15T09:00:00Z",
+    "site_id": 203,
+    "grp_id": 103,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 23,
+    "machine_id": 3,
+    "machine_name": "Machine 3",
+    "start_datetime_utc": "2025-04-15T09:03:00Z",
+    "end_datetime_utc": "2025-04-15T10:00:00Z",
+    "site_id": 203,
+    "grp_id": 103,
+    "notes": "Resumed after 3-min downtime"
+  },
+  {
+    "history_id": 24,
+    "machine_id": 3,
+    "machine_name": "Machine 3",
+    "start_datetime_utc": "2025-04-15T10:05:00Z",
+    "end_datetime_utc": "2025-04-15T11:00:00Z",
+    "site_id": 203,
+    "grp_id": 103,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 25,
+    "machine_id": 3,
+    "machine_name": "Machine 3",
+    "start_datetime_utc": "2025-04-15T11:04:00Z",
+    "end_datetime_utc": "2025-04-15T12:00:00Z",
+    "site_id": 203,
+    "grp_id": 103,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 26,
+    "machine_id": 3,
+    "machine_name": "Machine 3",
+    "start_datetime_utc": "2025-04-15T12:05:00Z",
+    "end_datetime_utc": "2025-04-15T13:00:00Z",
+    "site_id": 203,
+    "grp_id": 103,
+    "notes": "Afternoon shift start"
+  },
+  {
+    "history_id": 27,
+    "machine_id": 3,
+    "machine_name": "Machine 3",
+    "start_datetime_utc": "2025-04-15T13:03:00Z",
+    "end_datetime_utc": "2025-04-15T14:00:00Z",
+    "site_id": 203,
+    "grp_id": 103,
+    "notes": "Resumed after 3-min downtime"
+  },
+  {
+    "history_id": 28,
+    "machine_id": 3,
+    "machine_name": "Machine 3",
+    "start_datetime_utc": "2025-04-15T14:05:00Z",
+    "end_datetime_utc": "2025-04-15T14:45:00Z",
+    "site_id": 203,
+    "grp_id": 103,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 29,
+    "machine_id": 3,
+    "machine_name": "Machine 3",
+    "start_datetime_utc": "2025-04-15T14:50:00Z",
+    "end_datetime_utc": "2025-04-15T15:00:00Z",
+    "site_id": 203,
+    "grp_id": 103,
+    "notes": "End of shift"
+  },
+  {
+    "history_id": 30,
+    "machine_id": 4,
+    "machine_name": "Machine 4",
+    "start_datetime_utc": "2025-04-15T07:00:00Z",
+    "end_datetime_utc": "2025-04-15T08:00:00Z",
+    "site_id": 201,
+    "grp_id": 103,
+    "notes": "Morning shift start"
+  },
+  {
+    "history_id": 31,
+    "machine_id": 4,
+    "machine_name": "Machine 4",
+    "start_datetime_utc": "2025-04-15T08:05:00Z",
+    "end_datetime_utc": "2025-04-15T09:00:00Z",
+    "site_id": 201,
+    "grp_id": 103,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 32,
+    "machine_id": 4,
+    "machine_name": "Machine 4",
+    "start_datetime_utc": "2025-04-15T09:04:00Z",
+    "end_datetime_utc": "2025-04-15T10:00:00Z",
+    "site_id": 201,
+    "grp_id": 103,
+    "notes": " advising for 4-min downtime"
+  },
+  {
+    "history_id": 33,
+    "machine_id": 4,
+    "machine_name": "Machine 4",
+    "start_datetime_utc": "2025-04-15T10:05:00Z",
+    "end_datetime_utc": "2025-04-15T11:00:00Z",
+    "site_id": 201,
+    "grp_id": 103,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 34,
+    "machine_id": 4,
+    "machine_name": "Machine 4",
+    "start_datetime_utc": "2025-04-15T11:03:00Z",
+    "end_datetime_utc": "2025-04-15T12:00:00Z",
+    "site_id": 201,
+    "grp_id": 103,
+    "notes": "Resumed after 3-min downtime"
+  },
+  {
+    "history_id": 35,
+    "machine_id": 4,
+    "machine_name": "Machine 4",
+    "start_datetime_utc": "2025-04-15T12:05:00Z",
+    "end_datetime_utc": "2025-04-15T13:00:00Z",
+    "site_id": 201,
+    "grp_id": 103,
+    "notes": "Afternoon shift start"
+  },
+  {
+    "history_id": 36,
+    "machine_id": 4,
+    "machine_name": "Machine 4",
+    "start_datetime_utc": "2025-04-15T13:04:00Z",
+    "end_datetime_utc": "2025-04-15T14:00:00Z",
+    "site_id": 201,
+    "grp_id": 103,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 37,
+    "machine_id": 4,
+    "machine_name": "Machine 4",
+    "start_datetime_utc": "2025-04-15T14:05:00Z",
+    "end_datetime_utc": "2025-04-15T14:45:00Z",
+    "site_id": 201,
+    "grp_id": 103,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 38,
+    "machine_id": 4,
+    "machine_name": "Machine 4",
+    "start_datetime_utc": "2025-04-15T14:50:00Z",
+    "end_datetime_utc": "2025-04-15T15:00:00Z",
+    "site_id": 201,
+    "grp_id": 103,
+    "notes": "End of shift"
+  },
+  {
+    "history_id": 39,
+    "machine_id": 5,
+    "machine_name": "Machine 5",
+    "start_datetime_utc": "2025-04-15T07:00:00Z",
+    "end_datetime_utc": "2025-04-15T08:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Morning shift start"
+  },
+  {
+    "history_id": 40,
+    "machine_id": 5,
+    "machine_name": "Machine 5",
+    "start_datetime_utc": "2025-04-15T08:05:00Z",
+    "end_datetime_utc": "2025-04-15T09:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 41,
+    "machine_id": 5,
+    "machine_name": "Machine 5",
+    "start_datetime_utc": "2025-04-15T09:03:00Z",
+    "end_datetime_utc": "2025-04-15T10:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 3-min downtime"
+  },
+  {
+    "history_id": 42,
+    "machine_id": 5,
+    "machine_name": "Machine 5",
+    "start_datetime_utc": "2025-04-15T10:05:00Z",
+    "end_datetime_utc": "2025-04-15T11:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 43,
+    "machine_id": 5,
+    "machine_name": "Machine 5",
+    "start_datetime_utc": "2025-04-15T11:04:00Z",
+    "end_datetime_utc": "2025-04-15T12:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 44,
+    "machine_id": 5,
+    "machine_name": "Machine 5",
+    "start_datetime_utc": "2025-04-15T12:05:00Z",
+    "end_datetime_utc": "2025-04-15T13:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Afternoon shift start"
+  },
+  {
+    "history_id": 45,
+    "machine_id": 5,
+    "machine_name": "Machine 5",
+    "start_datetime_utc": "2025-04-15T13:03:00Z",
+    "end_datetime_utc": "2025-04-15T14:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 3-min downtime"
+  },
+  {
+    "history_id": 46,
+    "machine_id": 5,
+    "machine_name": "Machine 5",
+    "start_datetime_utc": "2025-04-15T14:05:00Z",
+    "end_datetime_utc": "2025-04-15T14:45:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 47,
+    "machine_id": 5,
+    "machine_name": "Machine 5",
+    "start_datetime_utc": "2025-04-15T14:50:00Z",
+    "end_datetime_utc": "2025-04-15T15:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "End of shift"
+  },
+  {
+    "history_id": 48,
+    "machine_id": 6,
+    "machine_name": "Machine 6",
+    "start_datetime_utc": "2025-04-15T07:00:00Z",
+    "end_datetime_utc": "2025-04-15T08:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Morning shift start"
+  },
+  {
+    "history_id": 49,
+    "machine_id": 6,
+    "machine_name": "Machine 6",
+    "start_datetime_utc": "2025-04-15T08:05:00Z",
+    "end_datetime_utc": "2025-04-15T09:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 50,
+    "machine_id": 6,
+    "machine_name": "Machine 6",
+    "start_datetime_utc": "2025-04-15T09:03:00Z",
+    "end_datetime_utc": "2025-04-15T10:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 3-min downtime"
+  },
+  {
+    "history_id": 51,
+    "machine_id": 6,
+    "machine_name": "Machine 6",
+    "start_datetime_utc": "2025-04-15T10:05:00Z",
+    "end_datetime_utc": "2025-04-15T11:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 52,
+    "machine_id": 6,
+    "machine_name": "Machine 6",
+    "start_datetime_utc": "2025-04-15T11:04:00Z",
+    "end_datetime_utc": "2025-04-15T12:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 53,
+    "machine_id": 6,
+    "machine_name": "Machine 6",
+    "start_datetime_utc": "2025-04-15T12:05:00Z",
+    "end_datetime_utc": "2025-04-15T13:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Afternoon shift start"
+  },
+  {
+    "history_id": 54,
+    "machine_id": 6,
+    "machine_name": "Machine 6",
+    "start_datetime_utc": "2025-04-15T13:03:00Z",
+    "end_datetime_utc": "2025-04-15T14:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 3-min downtime"
+  },
+  {
+    "history_id": 55,
+    "machine_id": 6,
+    "machine_name": "Machine 6",
+    "start_datetime_utc": "2025-04-15T14:05:00Z",
+    "end_datetime_utc": "2025-04-15T14:45:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 56,
+    "machine_id": 6,
+    "machine_name": "Machine 6",
+    "start_datetime_utc": "2025-04-15T14:50:00Z",
+    "end_datetime_utc": "2025-04-15T15:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "End of shift"
+  },
+  {
+    "history_id": 57,
+    "machine_id": 7,
+    "machine_name": "Machine 7",
+    "start_datetime_utc": "2025-04-15T07:00:00Z",
+    "end_datetime_utc": "2025-04-15T08:00:00Z",
+    "site_id": 203,
+    "grp_id": 104,
+    "notes": "Morning shift start"
+  },
+  {
+    "history_id": 58,
+    "machine_id": 7,
+    "machine_name": "Machine 7",
+    "start_datetime_utc": "2025-04-15T08:05:00Z",
+    "end_datetime_utc": "2025-04-15T09:00:00Z",
+    "site_id": 203,
+    "grp_id": 104,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 59,
+    "machine_id": 7,
+    "machine_name": "Machine 7",
+    "start_datetime_utc": "2025-04-15T09:03:00Z",
+    "end_datetime_utc": "2025-04-15T10:00:00Z",
+    "site_id": 203,
+    "grp_id": 104,
+    "notes": "Resumed after 3-min downtime"
+  },
+  {
+    "history_id": 60,
+    "machine_id": 7,
+    "machine_name": "Machine 7",
+    "start_datetime_utc": "2025-04-15T10:05:00Z",
+    "end_datetime_utc": "2025-04-15T11:00:00Z",
+    "site_id": 203,
+    "grp_id": 104,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 61,
+    "machine_id": 7,
+    "machine_name": "Machine 7",
+    "start_datetime_utc": "2025-04-15T11:04:00Z",
+    "end_datetime_utc": "2025-04-15T12:00:00Z",
+    "site_id": 203,
+    "grp_id": 104,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 62,
+    "machine_id": 7,
+    "machine_name": "Machine 7",
+    "start_datetime_utc": "2025-04-15T12:05:00Z",
+    "end_datetime_utc": "2025-04-15T13:00:00Z",
+    "site_id": 203,
+    "grp_id": 104,
+    "notes": "Afternoon shift start"
+  },
+  {
+    "history_id": 63,
+    "machine_id": 7,
+    "machine_name": "Machine 7",
+    "start_datetime_utc": "2025-04-15T13:03:00Z",
+    "end_datetime_utc": "2025-04-15T14:00:00Z",
+    "site_id": 203,
+    "grp_id": 104,
+    "notes": "Resumed after 3-min downtime"
+  },
+  {
+    "history_id": 64,
+    "machine_id": 7,
+    "machine_name": "Machine 7",
+    "start_datetime_utc": "2025-04-15T14:05:00Z",
+    "end_datetime_utc": "2025-04-15T14:45:00Z",
+    "site_id": 203,
+    "grp_id": 104,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 65,
+    "machine_id": 7,
+    "machine_name": "Machine 7",
+    "start_datetime_utc": "2025-04-15T14:50:00Z",
+    "end_datetime_utc": "2025-04-15T15:00:00Z",
+    "site_id": 203,
+    "grp_id": 104,
+    "notes": "End of shift"
+  },
+  {
+    "history_id": 66,
+    "machine_id": 8,
+    "machine_name": "Machine 8",
+    "start_datetime_utc": "2025-04-15T07:00:00Z",
+    "end_datetime_utc": "2025-04-15T08:00:00Z",
+    "site_id": 201,
+    "grp_id": 102,
+    "notes": "Morning shift start"
+  },
+  {
+    "history_id": 67,
+    "machine_id": 8,
+    "machine_name": "Machine 8",
+    "start_datetime_utc": "2025-04-15T08:05:00Z",
+    "end_datetime_utc": "2025-04-15T09:00:00Z",
+    "site_id": 201,
+    "grp_id": 102,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 68,
+    "machine_id": 8,
+    "machine_name": "Machine 8",
+    "start_datetime_utc": "2025-04-15T09:03:00Z",
+    "end_datetime_utc": "2025-04-15T10:00:00Z",
+    "site_id": 201,
+    "grp_id": 102,
+    "notes": "Resumed after 3-min downtime"
+  },
+  {
+    "history_id": 69,
+    "machine_id": 8,
+    "machine_name": "Machine 8",
+    "start_datetime_utc": "2025-04-15T10:05:00Z",
+    "end_datetime_utc": "2025-04-15T11:00:00Z",
+    "site_id": 201,
+    "grp_id": 102,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 70,
+    "machine_id": 8,
+    "machine_name": "Machine 8",
+    "start_datetime_utc": "2025-04-15T11:04:00Z",
+    "end_datetime_utc": "2025-04-15T12:00:00Z",
+    "site_id": 201,
+    "grp_id": 102,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 71,
+    "machine_id": 8,
+    "machine_name": "Machine 8",
+    "start_datetime_utc": "2025-04-15T12:05:00Z",
+    "end_datetime_utc": "2025-04-15T13:00:00Z",
+    "site_id": 201,
+    "grp_id": 102,
+    "notes": "Afternoon shift start"
+  },
+  {
+    "history_id": 72,
+    "machine_id": 8,
+    "machine_name": "Machine 8",
+    "start_datetime_utc": "2025-04-15T13:03:00Z",
+    "end_datetime_utc": "2025-04-15T14:00:00Z",
+    "site_id": 201,
+    "grp_id": 102,
+    "notes": "Resumed after 3-min downtime"
+  },
+  {
+    "history_id": 73,
+    "machine_id": 8,
+    "machine_name": "Machine 8",
+    "start_datetime_utc": "2025-04-15T14:05:00Z",
+    "end_datetime_utc": "2025-04-15T14:45:00Z",
+    "site_id": 201,
+    "grp_id": 102,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 74,
+    "machine_id": 8,
+    "machine_name": "Machine 8",
+    "start_datetime_utc": "2025-04-15T14:50:00Z",
+    "end_datetime_utc": "2025-04-15T15:00:00Z",
+    "site_id": 201,
+    "grp_id": 102,
+    "notes": "End of shift"
+  },
+  {
+    "history_id": 75,
+    "machine_id": 9,
+    "machine_name": "Machine 9",
+    "start_datetime_utc": "2025-04-15T07:00:00Z",
+    "end_datetime_utc": "2025-04-15T08:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Morning shift start"
+  },
+  {
+    "history_id": 76,
+    "machine_id": 9,
+    "machine_name": "Machine 9",
+    "start_datetime_utc": "2025-04-15T08:05:00Z",
+    "end_datetime_utc": "2025-04-15T09:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 77,
+    "machine_id": 9,
+    "machine_name": "Machine 9",
+    "start_datetime_utc": "2025-04-15T09:03:00Z",
+    "end_datetime_utc": "2025-04-15T10:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 3-min downtime"
+  },
+  {
+    "history_id": 78,
+    "machine_id": 9,
+    "machine_name": "Machine 9",
+    "start_datetime_utc": "2025-04-15T10:05:00Z",
+    "end_datetime_utc": "2025-04-15T11:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 79,
+    "machine_id": 9,
+    "machine_name": "Machine 9",
+    "start_datetime_utc": "2025-04-15T11:04:00Z",
+    "end_datetime_utc": "2025-04-15T12:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 80,
+    "machine_id": 9,
+    "machine_name": "Machine 9",
+    "start_datetime_utc": "2025-04-15T12:05:00Z",
+    "end_datetime_utc": "2025-04-15T13:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Afternoon shift start"
+  },
+  {
+    "history_id": 81,
+    "machine_id": 9,
+    "machine_name": "Machine 9",
+    "start_datetime_utc": "2025-04-15T13:03:00Z",
+    "end_datetime_utc": "2025-04-15T14:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 3-min downtime"
+  },
+  {
+    "history_id": 82,
+    "machine_id": 9,
+    "machine_name": "Machine 9",
+    "start_datetime_utc": "2025-04-15T14:05:00Z",
+    "end_datetime_utc": "2025-04-15T14:45:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 83,
+    "machine_id": 9,
+    "machine_name": "Machine 9",
+    "start_datetime_utc": "2025-04-15T14:50:00Z",
+    "end_datetime_utc": "2025-04-15T15:00:00Z",
+    "site_id": 204,
+    "grp_id": 102,
+    "notes": "End of shift"
+  },
+  {
+    "history_id": 84,
+    "machine_id": 10,
+    "machine_name": "Machine 10",
+    "start_datetime_utc": "2025-04-15T00:00:00Z",
+    "end_datetime_utc": "2025-04-15T02:30:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Night shift start"
+  },
+  {
+    "history_id": 85,
+    "machine_id": 10,
+    "machine_name": "Machine 10",
+    "start_datetime_utc": "2025-04-15T02:35:00Z",
+    "end_datetime_utc": "2025-04-15T05:00:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 86,
+    "machine_id": 10,
+    "machine_name": "Machine 10",
+    "start_datetime_utc": "2025-04-15T05:05:00Z",
+    "end_datetime_utc": "2025-04-15T08:00:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 87,
+    "machine_id": 10,
+    "machine_name": "Machine 10",
+    "start_datetime_utc": "2025-04-15T08:00:00Z",
+    "end_datetime_utc": "2025-04-15T10:30:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Morning shift start"
+  },
+  {
+    "history_id": 88,
+    "machine_id": 10,
+    "machine_name": "Machine 10",
+    "start_datetime_utc": "2025-04-15T10:34:00Z",
+    "end_datetime_utc": "2025-04-15T13:00:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 89,
+    "machine_id": 10,
+    "machine_name": "Machine 10",
+    "start_datetime_utc": "2025-04-15T13:05:00Z",
+    "end_datetime_utc": "2025-04-15T16:00:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 90,
+    "machine_id": 10,
+    "machine_name": "Machine 10",
+    "start_datetime_utc": "2025-04-15T16:00:00Z",
+    "end_datetime_utc": "2025-04-15T18:30:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Afternoon shift start"
+  },
+  {
+    "history_id": 91,
+    "machine_id": 10,
+    "machine_name": "Machine 10",
+    "start_datetime_utc": "2025-04-15T18:35:00Z",
+    "end_datetime_utc": "2025-04-15T21:00:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 92,
+    "machine_id": 10,
+    "machine_name": "Machine 10",
+    "start_datetime_utc": "2025-04-15T21:04:00Z",
+    "end_datetime_utc": "2025-04-15T23:30:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 93,
+    "machine_id": 10,
+    "machine_name": "Machine 10",
+    "start_datetime_utc": "2025-04-15T23:35:00Z",
+    "end_datetime_utc": "2025-04-16T00:00:00Z",
+    "site_id": 202,
+    "grp_id": 101,
+    "notes": "End of evening shift"
+  },
+  {
+    "history_id": 94,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-16T07:00:00Z",
+    "end_datetime_utc": "2025-04-16T07:45:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Morning shift start"
+  },
+  {
+    "history_id": 95,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-16T07:50:00Z",
+    "end_datetime_utc": "2025-04-16T08:30:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 96,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-16T08:34:00Z",
+    "end_datetime_utc": "2025-04-16T09:30:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 97,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-16T09:35:00Z",
+    "end_datetime_utc": "2025-04-16T10:30:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 98,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-16T10:34:00Z",
+    "end_datetime_utc": "2025-04-16T11:30:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Resumed after 4-min downtime"
+  },
+  {
+    "history_id": 99,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-16T11:35:00Z",
+    "end_datetime_utc": "2025-04-16T12:30:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Resumed after 5-min downtime"
+  },
+  {
+    "history_id": 100,
+    "machine_id": 1,
+    "machine_name": "Machine 1",
+    "start_datetime_utc": "2025-04-16T12:33:00Z",
+    "end_datetime_utc": "2025-04-16T13:30:00Z",
+    "site_id": 201,
+    "grp_id": 101,
+    "notes": "Afternoon shift start"
+  }
+]

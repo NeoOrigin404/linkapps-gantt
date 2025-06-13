@@ -1,0 +1,18 @@
+/* Ajustement de la largeur pour les écrans mobiles */
+@media screen and (max-width: 1024px) {
+	.r-width-b8lwoo {
+		width: 80% !important;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.r-width-b8lwoo {
+		width: 90% !important;
+	}
+}
+
+@media screen and (max-width: 300px) {
+	.r-width-b8lwoo {
+		width: 95% !important;
+	}
+}
